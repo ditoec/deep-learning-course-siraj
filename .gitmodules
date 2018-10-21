@@ -1,0 +1,9 @@
+[submodule "how_to_make_an_image_classifier"]
+	path = how_to_make_an_image_classifier
+	url = https://github.com/llSourcell/how_to_make_an_image_classifier
+[submodule "How-to-Predict-Stock-Prices-Easily-Demo"]
+	path = How-to-Predict-Stock-Prices-Easily-Demo
+	url = https://github.com/llSourcell/How-to-Predict-Stock-Prices-Easily-Demo
+[submodule "How-to-Generate-Art-Demo"]
+	path = How-to-Generate-Art-Demo
+	url = https://github.com/llSourcell/How-to-Generate-Art-Demo
