@@ -7,3 +7,18 @@
 [submodule "How-to-Generate-Art-Demo"]
 	path = How-to-Generate-Art-Demo
 	url = https://github.com/llSourcell/How-to-Generate-Art-Demo
+[submodule "How-to-Generate-Music-Demo"]
+	path = How-to-Generate-Music-Demo
+	url = https://github.com/llSourcell/How-to-Generate-Music-Demo
+[submodule "How_to_make_a_text_summarizer"]
+	path = How_to_make_a_text_summarizer
+	url = https://github.com/llSourcell/How_to_make_a_text_summarizer
+[submodule "How_to_make_a_language_translator"]
+	path = How_to_make_a_language_translator
+	url = https://github.com/llSourcell/How_to_make_a_language_translator
+[submodule "How_to_make_a_chatbot"]
+	path = How_to_make_a_chatbot
+	url = https://github.com/llSourcell/How_to_make_a_chatbot
+[submodule "how_to_win_slot_machines"]
+	path = how_to_win_slot_machines
+	url = https://github.com/llSourcell/how_to_win_slot_machines
