@@ -22,3 +22,15 @@
 [submodule "how_to_win_slot_machines"]
 	path = how_to_win_slot_machines
 	url = https://github.com/llSourcell/how_to_win_slot_machines
+[submodule "how_to_generate_images"]
+	path = how_to_generate_images
+	url = https://github.com/llSourcell/how_to_generate_images
+[submodule "how_to_generate_video"]
+	path = how_to_generate_video
+	url = https://github.com/llSourcell/how_to_generate_video
+[submodule "how_to_convert_text_to_images"]
+	path = how_to_convert_text_to_images
+	url = https://github.com/llSourcell/how_to_convert_text_to_images
+[submodule "How-to-Learn-from-Little-Data"]
+	path = How-to-Learn-from-Little-Data
+	url = https://github.com/llSourcell/How-to-Learn-from-Little-Data
